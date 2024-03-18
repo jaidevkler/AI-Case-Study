@@ -6,12 +6,12 @@
 ## Funding
 The business was bootstrapped since its founding in 2009 up until 2017 (Geron, 2017, Grammarly). It has gone through two venture rounds in 2017 and 2019, followed by a private equity round in 2021 raising a total of $400 million at a valuation of $13 billion. 
 ![Funding Image](funding_raised.png)
- The initial venture round of funding was led by General Catalyst and with participation from Breyer Capital, IVP, SignalFire and Spark Capital. The second venture round of funding was again led by General Catalyst and with participation from IVP and Sozo Ventures. The private equity round of funding was led by Baullie Gifford and BlackRock Inc (Crunchbase Inc, 2024, Grammarly Financials).
+The initial venture round of funding was led by General Catalyst and with participation from Breyer Capital, IVP, SignalFire and Spark Capital. The second venture round of funding was again led by General Catalyst and with participation from IVP and Sozo Ventures. The private equity round of funding was led by Baullie Gifford and BlackRock Inc (Crunchbase Inc, 2024, Grammarly Financials).
 ![Most active investors](most_active_investors.png)
 
 ## Business Activities
 Grammarly's mission is to improve lives by improving communication. They believe that they can make communication more effective, efficient and persuasive with the tools they provide. Their AI writing partner can help writers throughout the writing process. It can even provide new ideas to get one started or refine the tone to meet the required results. The company provides services for individuals, businesses, schools, and educational institutions ranging from a long case study down to a short message (Grammarly, 2024, Great writing gets work done).
-
+<br />
 The Global Writing Enhancement Software market size is expected to expand due to the growing use of tools that provide insights for writing. The market size based on research stood at $351 Million in 2021 and is expected to reach $524.7 million by 2028 with a growth rate of 5.9% CAGR over the forecast period (Proficient Market Insights, 2022, Global Writing Enhancement Software Market).
 
 ## Competitors
@@ -34,9 +34,7 @@ Grammarly’s products are powered by an advanced system that combines rules, pa
     * Reviewing the research – Grammarly were able to learn from traditional approaches used to extract the main points in a writing. They used this research and improved it by using modern techniques.
     * Developing features – They then worked with their in-house analytical linguists to build a robust set of language-based features.
     * Optimizing the model – used optimization strategies to reduce the scope of the problem and bring down the model’s inference times.
-
 ![Ideas](ideas.png)
-
 Grammarly have divided the teams behind the technology into ten different areas: Data Science, Extensions, Growth, Identity, Machine Learning, Mobile, NLP, Platform, Core and Product. The NPL stack includes: Python, Clojure, Java, scikit-learn, TensorFlow, PyTorch, XGBoost, OpenNLP, Emory NLP, spaCy, OpenNMT, AllenNLP, SageMaker, Jupyter notebooks and the Machine Learning stack includes: Python, PyTorch, scikit-learn, SageMaker, TensorFlow, Marian, Vowpal Wabbit (Grammarly, 2024, Technology).
 
 ## Landscape
@@ -49,13 +47,11 @@ Grammarly (2022) stated that the use of its features has led to satisfied busine
 * HackerOne security platform improved marketing team communication by sixty-six percent. 
 * MarketStar and CloudTask sales agents improved chat response time by twenty-nine percent and increased chat-driven revenue by forty percent.
 * Teams using Grammarly business have reduced writing mistakes by up to seventy four percent. Minimized writing time per task by up to fifty percent. Decreased cost per resolution by up to twenty two percent.
-
 ![Teams using Grammarly](results.png)
 
 Grammarly uses number of teams and daily active users as the core metric to measure the success of the company. Currently 70,000+ professional and enterprise teams are using Grammarly. There are 30,000,000+ daily active users (Grammarly, 2024, About).
-
 ![Core metrics](core_metrics.png)
-Americas dominated the writing enhancement software market in 2022, with a market share of 42.98%. Grammarly is the major player in the writing enhancement market, with a market share of 27.75% (Industry Outlook 2023 Reports, 2024, Region Overview). Their overall market share has continued to increase since their inception in 2009.
+Americas dominated the writing enhancement software market in 2022, with a market share of 42.98%. Grammarly is the major player in the writing enhancement market, with a market share of 27.75% (Industry Outlook 2023 Reports, 2024, Region Overview). Their overall market share has continued to increase since their inception in 2009.<br />
 
 ## Recommendations
 The company has a lot of prospects that it can pursue to grow and gain market share: 
@@ -63,50 +59,56 @@ The company has a lot of prospects that it can pursue to grow and gain market sh
 They can increase the number of daily active users, one of its core metrics to measure success, if they were to increase the number of languages the service is provided in. Some of their competitors are already providing their service in multiple languages. For Grammarly to provide their service in more languages they would need to employ linguists and annotators that hold expertise in that language. In terms of technology no major modifications would be required to incorporate this change.
 * Currently Grammarly has a limit of 1,000 AI prompts/month for their premium service. I believe they should not have a limit as most of their competitors do not have one with their paid service. This would need Grammarly to increase the size and number of servers to process the data. 
 
-## List of References
->Grammarly Inc (2024).
->_We’ve climbed a long way-with much farther to reach the summit._  Retrieved from Grammarly Inc website: [Grammarly](https://www.grammarly.com/about)
+## More Information
+More information about Grammarly Inc and the technologies that they use can be found on their Website, GitHub and Twitter accounts. The links are provided below:
+> [www.grammarly.com](http://grammarly.com) &nbsp;&middot;&nbsp;
+> GitHub [@grammarly](https://github.com/grammarly) &nbsp;&middot;&nbsp;
+> Twitter [@grammarly](https://twitter.com/Grammarly)
 
-Jemima McEvoy (2021, November 23).
+## List of References
+Grammarly Inc (2024).<br />
+_We’ve climbed a long way-with much farther to reach the summit._  Retrieved from Grammarly Inc website: [Grammarly](https://www.grammarly.com/about)
+
+Jemima McEvoy (2021, November 23).<br />
 _Grammarly Founders Become Billionaires From Fixing Your Sloppy Writing._ Retrieved from Forbes website: [Forbes](https://www.forbes.com/sites/jemimamcevoy/2021/11/23/grammarly-founders-become-billionaires-from-fixing-your-sloppy-writing/?sh=7bef52215852)
 
-Tomio Gerron (2017, May 8).
+Tomio Gerron (2017, May 8).<br />
 _Grammarly, With $110 Million, Brings Artifical Intelligence to Writing._ Retrived from Wall Street Journal website: [WSJ](https://www.wsj.com/articles/grammarly-with-110-million-brings-artificial-intelligence-to-writing-1494243003)
 
-Crunchbase Inc (2024).
+Crunchbase Inc (2024).<br />
 _Grammarly Financials._ Retrieved from Crunchbase Inc website: [Cruchbase](https://www.crunchbase.com/organization/grammarly/company_financials)
  
-Grammarly Inc (2024).
+Grammarly Inc (2024).<br />
 _Great writing gets work done._ Retrieved from Grammarly Inc website: [Grammarly](https://www.grammarly.com/about)
 
-Proficient Market Insights (2022, February 14).
+Proficient Market Insights (2022, February 14).<br />
 _Global Writing Enhancement Software Market 2022 Key Developers (Grammarly, AutoCrit, WhiteSmoke) Competitive Analysis, Revenue Generation, CAGR Values, Growth and Forecast 2028._ Retrieved from Yahoo Finance website: [Yahoo Finance](https://finance.yahoo.com/news/global-writing-enhancement-software-market-084600910.html)
 
-Jeremy Holcombe (2023, September 28)
+Jeremy Holcombe (2023, September 28).<br />
 _The Top 13 Grammarly Alternatives [Ultimate Guide]._ Retrieved from Kinsta Inc website: [Kinsta](https://kinsta.com/blog/grammarly-alternative/)
 
-Daniel Midson-Short (2022, August 15)
+Daniel Midson-Short (2022, August 15).<br />
 _No-BS Grammarly Review: Worth It or Skip It?_ Retrieved from Codeless Interactive LLC website: [Codeless Interactive](https://codeless.io/grammarly-review/)
 
-Grammarly Inc (2023, March 9).
+Grammarly Inc (2023, March 9).<br />
 _How We Use AI to Enhance Your Writing | Grammarly Spotlight._ Retrieved from Grammarly Inc website: [Grammarly](https://www.grammarly.com/blog/how-grammarly-uses-ai/#:~:text=Grammarly%27s%20products%20are%20powered%20by,processing%20to%20improve%20your%20writing)
 
-Dimi Alikaniotis (2023, March 3).
+Dimi Alikaniotis (2023, March 3).<br />
 _How Grammarly Uses Natural Language Processing and Machine Learning to Identify the Main Points in a Message._ Retrieved from Grammarly Inc website: [Grammarly](https://www.grammarly.com/blog/engineering/nlp-ml-identify-main-points/)
 
-Grammarly Inc (2024).
+Grammarly Inc (2024).<br />
 _Technology – The tech that makes our products possible._ Retrieved from Grammarly Inc website: [Grammarly](https://www.grammarly.com/jobs/technology#:~:text=Grammarly%27s%20writing%20assistant%20is%20powered,has%20never%20been%20done%20before)
 
-Elmira (2023, December 27).
+Elmira (2023, December 27).<br />
 _The future of Technical Writing: Trends and Technologies to Watch in 2024._ Retrieved from ClickHelp AM LLC website: [ClickHelp](https://clickhelp.com/clickhelp-technical-writing-blog/the-future-of-technical-writing-trends-and-technologies-to-watch-in-2024/)
 
-Grammarly Inc (2022, May 25)
+Grammarly Inc (2022, May 25).<br />
 _Growing Impact of Business Communications | Driving Success._ Retreieved from Grammarly Inc website: [Grammarly](https://www.grammarly.com/business/learn/impact-of-business-communication-part5/)
 
-Industry Outlook 2023 Reports (2024, January 25)
+Industry Outlook 2023 Reports (2024, January 25).<br />
 _2031, "Writing Enhancement Software Market" Innovations | Exploring Future trends with New Growth Challenges._ Retrieved from Linkedin Corporation website: [LinkedIn](https://www.linkedin.com/pulse/2031-writing-enhancement-software-market-molvc/)
 
-Shanzae Solangi (2024, February 15).
+Shanzae Solangi (2024, February 15).<br />
 _18 Grammarly Stats and Usage._ Retrieved from Startup Geek LLC website: [Startup Geek](https://startupgeek.com/blog/grammarly/)
 
 
