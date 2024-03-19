@@ -1,13 +1,17 @@
-# Grammarly Inc
+# Grammarly Inc - AI Writing & Text Generation Tools
+
+![AI Witing Tools](https://static-web.grammarly.com/1e6ajr2k4140/6woowOFe6hAiCIvDH2UW1o/a07985ba4d8261193d850ec7cb6b7c4d/hero-ai-writing-tools.svg)
+
+Image Source: Grammarly
 
 ## Overview and Origin
 **Grammarly Inc** was founded by Max Lytvyn, Alex Shevchenko, and Dmytro Lider in 2009 (Grammarly, 2024, We’ve climbed a long way). The idea of Grammarly was inspired by a previous venture that Max Lytvyn and Alex Shevchanko had developed in their college days called MyDropBox, which was built to keep plagiarism out of writing. This led them to a ask a question: “Why do people choose to plagiarize in the first place? Could it be that they were finding it difficult to communicate what they meant in their own voice?” They started Grammarly to help solve this problem (McEvoy, 2021, Grammarly Founders).
 
 ## Funding
-The business was bootstrapped since its founding in 2009 up until 2017 (Geron, 2017, Grammarly). It has gone through two venture rounds in 2017 and 2019, followed by a private equity round in 2021 raising a total of $400 million at a valuation of $13 billion. 
-![Funding Image](funding_raised.png)
-The initial venture round of funding was led by General Catalyst and with participation from Breyer Capital, IVP, SignalFire and Spark Capital. The second venture round of funding was again led by General Catalyst and with participation from IVP and Sozo Ventures. The private equity round of funding was led by Baullie Gifford and BlackRock Inc (Crunchbase Inc, 2024, Grammarly Financials).
-![Most active investors](most_active_investors.png)
+The business was bootstrapped since its founding in 2009 up until 2017 (Geron, 2017, Grammarly). It has gone through two venture rounds in 2017 and 2019, followed by a private equity round in 2021 raising a total of $400 million at a valuation of $13 billion. <br />
+<img src="funding_raised.png" alt="drawing" style="width:750px;" /><br />
+The initial venture round of funding was led by General Catalyst and with participation from Breyer Capital, IVP, SignalFire and Spark Capital. The second venture round of funding was again led by General Catalyst and with participation from IVP and Sozo Ventures. The private equity round of funding was led by Baullie Gifford and BlackRock Inc (Crunchbase Inc, 2024, Grammarly Financials).<br />
+<img src="most_active_investors.png" alt="drawing" style="width:750px;"/><br />
 
 ## Business Activities
 Grammarly's mission is to improve lives by improving communication. They believe that they can make communication more effective, efficient and persuasive with the tools they provide. Their AI writing partner can help writers throughout the writing process. It can even provide new ideas to get one started or refine the tone to meet the required results. The company provides services for individuals, businesses, schools, and educational institutions ranging from a long case study down to a short message (Grammarly, 2024, Great writing gets work done).
@@ -33,8 +37,8 @@ Grammarly’s products are powered by an advanced system that combines rules, pa
 * Developing the model – Grammarly took the following steps to build a successful model:
     * Reviewing the research – Grammarly were able to learn from traditional approaches used to extract the main points in a writing. They used this research and improved it by using modern techniques.
     * Developing features – They then worked with their in-house analytical linguists to build a robust set of language-based features.
-    * Optimizing the model – used optimization strategies to reduce the scope of the problem and bring down the model’s inference times.
-![Ideas](ideas.png)
+    * Optimizing the model – used optimization strategies to reduce the scope of the problem and bring down the model’s inference times.<br />
+<img src="ideas.png" alt="drawing" style="width:750px;"/><br />
 Grammarly have divided the teams behind the technology into ten different areas: Data Science, Extensions, Growth, Identity, Machine Learning, Mobile, NLP, Platform, Core and Product. The NPL stack includes: Python, Clojure, Java, scikit-learn, TensorFlow, PyTorch, XGBoost, OpenNLP, Emory NLP, spaCy, OpenNMT, AllenNLP, SageMaker, Jupyter notebooks and the Machine Learning stack includes: Python, PyTorch, scikit-learn, SageMaker, TensorFlow, Marian, Vowpal Wabbit (Grammarly, 2024, Technology).
 
 ## Landscape
@@ -46,22 +50,26 @@ Grammarly (2022) stated that the use of its features has led to satisfied busine
 * A leading web hosting platform increased its customer satisfaction score by thirty percent.
 * HackerOne security platform improved marketing team communication by sixty-six percent. 
 * MarketStar and CloudTask sales agents improved chat response time by twenty-nine percent and increased chat-driven revenue by forty percent.
-* Teams using Grammarly business have reduced writing mistakes by up to seventy four percent. Minimized writing time per task by up to fifty percent. Decreased cost per resolution by up to twenty two percent.
-![Teams using Grammarly](results.png)
+* Teams using Grammarly business have reduced writing mistakes by up to seventy four percent. Minimized writing time per task by up to fifty percent. Decreased cost per resolution by up to twenty two percent.<br />
+<img src="results.png" alt="drawing" style="width:500px;"/><br />
 
-Grammarly uses number of teams and daily active users as the core metric to measure the success of the company. Currently 70,000+ professional and enterprise teams are using Grammarly. There are 30,000,000+ daily active users (Grammarly, 2024, About).
-![Core metrics](core_metrics.png)
+Grammarly uses number of teams and daily active users as the core metric to measure the success of the company. Currently 70,000+ professional and enterprise teams are using Grammarly. There are 30,000,000+ daily active users (Grammarly, 2024, About).<br />
+<img src="core_metrics.png" alt="drawing" style="width:750px;"/><br />
 Americas dominated the writing enhancement software market in 2022, with a market share of 42.98%. Grammarly is the major player in the writing enhancement market, with a market share of 27.75% (Industry Outlook 2023 Reports, 2024, Region Overview). Their overall market share has continued to increase since their inception in 2009.<br />
 
 ## Recommendations
 The company has a lot of prospects that it can pursue to grow and gain market share: 
-* Currently Grammarly only supports the English language. This restricts its use to English speaking countries or people. A bar chart below shows the current users divided by region (Solangi, 2024, Worldwide Usage): ![Worldwide Usage](worldwide_usage.png)
+* Currently Grammarly only supports the English language. This restricts its use to English speaking countries or people. A bar chart below shows the current users divided by region (Solangi, 2024, Worldwide Usage): <br />
+<img src="worldwide_usage.png" alt="drawing" style="width:500px;"/><br />
 They can increase the number of daily active users, one of its core metrics to measure success, if they were to increase the number of languages the service is provided in. Some of their competitors are already providing their service in multiple languages. For Grammarly to provide their service in more languages they would need to employ linguists and annotators that hold expertise in that language. In terms of technology no major modifications would be required to incorporate this change.
 * Currently Grammarly has a limit of 1,000 AI prompts/month for their premium service. I believe they should not have a limit as most of their competitors do not have one with their paid service. This would need Grammarly to increase the size and number of servers to process the data. 
+* Grammarly can make errors and wrong suggestions from time to time (PaperBlazer, 2024, Disadvantages of Grammarly). It is important that they continue working with their in-house linguists, annotators, and other teams to continue improving the product.
+* Grammarly product is fast but still requires time to process the changes (PaperBlazer, 2024, Disadvantages of Grammarly). Larger data centers equipped with better hardware can help improve the quality of service.
+
 
 ## More Information
 More information about Grammarly Inc and the technologies that they use can be found on their Website, GitHub and Twitter accounts. The links are provided below:
-> [www.grammarly.com](http://grammarly.com) &nbsp;&middot;&nbsp;
+> Website [www.grammarly.com](http://grammarly.com) &nbsp;&middot;&nbsp;
 > GitHub [@grammarly](https://github.com/grammarly) &nbsp;&middot;&nbsp;
 > Twitter [@grammarly](https://twitter.com/Grammarly)
 
@@ -110,6 +118,10 @@ _2031, "Writing Enhancement Software Market" Innovations | Exploring Future tren
 
 Shanzae Solangi (2024, February 15).<br />
 _18 Grammarly Stats and Usage._ Retrieved from Startup Geek LLC website: [Startup Geek](https://startupgeek.com/blog/grammarly/)
+
+PaperBlazer (2024).<br />
+_Disadvantages of Grammarly._ Retrieved from PaperBlazer website: [PaperBlazer](https://paperblazer.com/four-disadvantages-of-grammarly/)
+
 
 
 
