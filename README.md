@@ -1,6 +1,6 @@
 # Grammarly Inc - AI Writing & Text Generation Tools
 <div style="text-align:center">
-<img src="https://static-web.grammarly.com/1e6ajr2k4140/6woowOFe6hAiCIvDH2UW1o/a07985ba4d8261193d850ec7cb6b7c4d/hero-ai-writing-tools.svg">
+    <img src="https://static-web.grammarly.com/1e6ajr2k4140/6woowOFe6hAiCIvDH2UW1o/a07985ba4d8261193d850ec7cb6b7c4d/hero-ai-writing-tools.svg">
 </div>
 
 Image Source: Grammarly
@@ -11,11 +11,11 @@ Image Source: Grammarly
 ## Funding
 The business was bootstrapped since its founding in 2009 up until 2017 (Geron, 2017, Grammarly). It has gone through two venture rounds in 2017 and 2019, followed by a private equity round in 2021 raising a total of $400 million at a valuation of $13 billion. <br />
 <div style="text-align:center">
-<img src="./images/funding_raised.png" alt="Funding raised" style="width:500px;" /><br />
+    <img src="./images/funding_raised.png" alt="Funding raised" style="width:500px;" /><br />
 </div>
 The initial venture round of funding was led by General Catalyst and with participation from Breyer Capital, IVP, SignalFire and Spark Capital. The second venture round of funding was again led by General Catalyst and with participation from IVP and Sozo Ventures. The private equity round of funding was led by Baullie Gifford and BlackRock Inc (Crunchbase Inc, 2024, Grammarly Financials).<br />
 <div style="text-align:center">
-<img src="./images/most_active_investors.png" alt="Most active Investors" style="width:500px;"/><br />
+    <img src="./images/most_active_investors.png" alt="Most active Investors" style="width:500px;"/><br />
 </div>
 
 ## Business Activities
@@ -40,7 +40,6 @@ Grammarly has several competitors in their field of writing enhancement software
 * LanguageTool
 * Writer
 * SentenceCheckup
-<br />
 
 ### Advantages over competitors
 Grammarly stands out from its competitors based on the quality and quantity of services that they provide. Midson-Short (2022), listed some of the fields where Grammarly outclasses its competitors:
@@ -63,7 +62,7 @@ Grammarly’s products are powered by an advanced system that combines rules, pa
     * Developing features – They then worked with their in-house analytical linguists to build a robust set of language-based features.
     * Optimizing the model – used optimization strategies to reduce the scope of the problem and bring down the model’s inference times.<br />
 <div style="text-align:center">
-<img src="./images/ideas.png" alt="Ideas" style="width:750px;"/><br />
+    <img src="./images/ideas.png" alt="Ideas" style="width:750px;"/><br />
 </div>
 Grammarly have divided the teams behind the technology into ten different areas: Data Science, Extensions, Growth, Identity, Machine Learning, Mobile, NLP, Platform, Core and Product. The NPL stack includes: Python, Clojure, Java, scikit-learn, TensorFlow, PyTorch, XGBoost, OpenNLP, Emory NLP, spaCy, OpenNMT, AllenNLP, SageMaker, Jupyter notebooks and the Machine Learning stack includes: Python, PyTorch, scikit-learn, SageMaker, TensorFlow, Marian, Vowpal Wabbit (Grammarly, 2024, Technology).
 
@@ -78,12 +77,12 @@ Grammarly (2022) stated that the use of its features has led to satisfied busine
 * MarketStar and CloudTask sales agents improved chat response time by twenty-nine percent and increased chat-driven revenue by forty percent.
 * Teams using Grammarly business have reduced writing mistakes by up to seventy four percent. Minimized writing time per task by up to fifty percent. Decreased cost per resolution by up to twenty two percent.<br />
 <div style="text-align:center">
-<img src="./images/results.png" alt="Results" style="width:500px;"/><br />
+    <img src="./images/results.png" alt="Results" style="width:500px;"/><br />
 </div>
 
 Grammarly uses number of teams and daily active users as the core metric to measure the success of the company. Currently 70,000+ professional and enterprise teams are using Grammarly. There are 30,000,000+ daily active users (Grammarly, 2024, About).<br />
 <div style="text-align:center">
-<img src="./images/core_metrics.png" alt="Core Metrics" style="width:750px;"/><br />
+    <img src="./images/core_metrics.png" alt="Core Metrics" style="width:750px;"/><br />
 </div>
 Americas dominated the writing enhancement software market in 2022, with a market share of 42.98%. Grammarly is the major player in the writing enhancement market, with a market share of 27.75% (Industry Outlook 2023 Reports, 2024, Region Overview). Their overall market share has continued to increase since their inception in 2009.<br />
 
@@ -91,7 +90,7 @@ Americas dominated the writing enhancement software market in 2022, with a marke
 The company has a lot of prospects that it can pursue to grow and gain market share: 
 * Currently Grammarly only supports the English language. This restricts its use to English speaking countries or people. A bar chart below shows the current users divided by region (Solangi, 2024, Worldwide Usage): <br />
 <div style="text-align:center">
-<img src="./images/worldwide_usage.png" alt="Worldwide usage" style="width:500px;"/><br />
+    <img src="./images/worldwide_usage.png" alt="Worldwide usage" style="width:500px;"/><br />
 </div>
 They can increase the number of daily active users, one of its core metrics to measure success, if they were to increase the number of languages the service is provided in. Some of their competitors are already providing their service in multiple languages. For Grammarly to provide their service in more languages they would need to employ linguists and annotators that hold expertise in that language. In terms of technology no major modifications would be required to incorporate this change.
 * Currently Grammarly has a limit of 1,000 AI prompts/month for their premium service. I believe they should not have a limit as most of their competitors do not have one with their paid service. This would need Grammarly to increase the size and number of servers to process the data. 
