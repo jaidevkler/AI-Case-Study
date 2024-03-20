@@ -11,12 +11,14 @@ Image Source: Grammarly
 ## Funding
 The business was bootstrapped since its founding in 2009 up until 2017 (Geron, 2017, Grammarly). It has gone through two venture rounds in 2017 and 2019, followed by a private equity round in 2021 raising a total of $400 million at a valuation of $13 billion. <br />
 <div style="text-align:center">
-    <img src="./images/funding_raised.png" alt="Funding raised" style="width:500px;" />
+    <img src="./images/funding_raised.png" alt="Funding raised" style="width:500px;">
 </div>
 <br />
-The initial venture round of funding was led by General Catalyst and with participation from Breyer Capital, IVP, SignalFire and Spark Capital. The second venture round of funding was again led by General Catalyst and with participation from IVP and Sozo Ventures. The private equity round of funding was led by Baullie Gifford and BlackRock Inc (Crunchbase Inc, 2024, Grammarly Financials).<br />
+The initial venture round of funding was led by General Catalyst and with participation from Breyer Capital, IVP, SignalFire and Spark Capital. The second venture round of funding was again led by General Catalyst and with participation from IVP and Sozo Ventures. The private equity round of funding was led by Baullie Gifford and BlackRock Inc (Crunchbase Inc, 2024, Grammarly Financials).
+
+<br />
 <div style="text-align:center">
-    <img src="./images/most_active_investors.png" alt="Most active Investors" style="width:500px;"/>
+    <img src="./images/most_active_investors.png" alt="Most active Investors" style="width:500px;">
 </div>
 <br />
 
